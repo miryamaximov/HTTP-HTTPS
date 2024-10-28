@@ -24,5 +24,5 @@
 
 ### 1. Clone הריפוזיטורי למחשב שלך:
 ```bash
-git clone <repository-url>
+git clone https://github.com/miryamaximov/HTTP-HTTPS.git
 cd student-management-webapi
