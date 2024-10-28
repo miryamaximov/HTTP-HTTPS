@@ -1,0 +1,68 @@
+# Visual Studio בינתיים על הסביבה שלך
+.vscode/
+.vs/
+
+# קבצים של מערכת
+*.DS_Store
+*.class
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# תיקיות בינאריות ותוצרי Build
+bin/
+obj/
+out/
+
+# Logs
+*.log
+logs/
+
+# קבצי תצורה מקומיים ונתוני משתמש
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# תיקיות שנוצרות ע"י NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# קבצי תלות מקומיים
+*.localhistory/
+
+# קבצי פריסה מקומיים
+.publish/
+
+# קבצי Docker (אם לא דרושים)
+**/[Dd]ocker*
+
+# קבצי חבילות Node.js (אם יש שימוש ב-Node)
+node_modules/
+
+# קבצי SSL ו-Certificates שנוצרים מקומית
+*.pfx
+*.p12
+
+# קבצי זמניים של MSBuild
+*.tlog
+
+# קבצי Cache של Visual Studio
+ipch/
+*.aps
+*.ilk
+*.obj
+
+# תוצרי בדיקות
+TestResults/
+
+# קבצי תצורת אפליקציה פרטיים
+appsettings.*.json
+secrets.json
+
+# Kubernetes files (אם יש שימוש)
+*.yaml
+*.yml

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_HTTPS", "HTTP_HTTPS\HTTP_HTTPS.csproj", "{FA6556D3-6AA5-4A56-9814-D04DC3D66E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6556D3-6AA5-4A56-9814-D04DC3D66E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6556D3-6AA5-4A56-9814-D04DC3D66E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6556D3-6AA5-4A56-9814-D04DC3D66E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6556D3-6AA5-4A56-9814-D04DC3D66E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86502704-0BAC-48A4-806C-8E9D1B7EAA8B}
+	EndGlobalSection
+EndGlobal
