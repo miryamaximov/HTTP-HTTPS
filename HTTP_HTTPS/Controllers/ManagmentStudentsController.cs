@@ -14,8 +14,7 @@ namespace HTTP_HTTPS.Controllers
 
         public ManagmentStudentsController()
         {
-            //  LoadStudentsFromJson();
-            _students.Add(new Student { Id = 1, Name = "יוסי כהן", Age = 15 });
+              LoadStudentsFromJson();
         }
 
         // JSON טעינת רשימת התלמידים מקובץ 
