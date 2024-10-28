@@ -10,7 +10,7 @@ namespace HTTP_HTTPS.Controllers
     public class ManagmentStudentsController : ControllerBase
     {
         private List<Student> _students = new List<Student>();
-        private readonly string filePath = Path.Combine(Directory.GetCurrentDirectory(), "C:\\Courses\\Projects\\HTTP_HTTPS\\HTTP_HTTPS\\students.json");
+        private readonly string filePath = Path.Combine(Directory.GetCurrentDirectory(), "D:\Users\User\Documents\תיקיית תכנות\Code Career Builder\HTTP_HTTPS\HTTP_HTTPS\students.json");
 
         public ManagmentStudentsController()
         {
